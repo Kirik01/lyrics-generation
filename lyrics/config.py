@@ -1,7 +1,7 @@
 """Configuration and parameters."""
 
 BATCH_SIZE = 256
-MAX_EPOCHS = 100
+MAX_EPOCHS = 10
 
 MAX_NUM_WORDS = 20000
 SONGDATA_FILE = "./data/songdata.csv"
